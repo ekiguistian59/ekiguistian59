@@ -1,15 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-07-03T10:09:40.088Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="YKX9GnQBNHvRJChdKaZf" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-03T10:10:57.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36 Edg/103.0.1264.44" etag="5-tsksJHNQq1H2Tig9u8" version="20.0.3" type="github">
   <diagram id="UO3LyailfInEk7_Pi2u7" name="Page-1">
     <mxGraphModel dx="1695" dy="1611" grid="1" gridSize="20" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="39-sSo6X4Tb6nSMiiZlj-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#006658;fontColor=#5C5C5C;" edge="1" parent="1" source="39-sSo6X4Tb6nSMiiZlj-2" target="39-sSo6X4Tb6nSMiiZlj-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="39-sSo6X4Tb6nSMiiZlj-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-10" width="40" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="39-sSo6X4Tb6nSMiiZlj-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#006658;fontColor=#5C5C5C;" edge="1" parent="1" source="39-sSo6X4Tb6nSMiiZlj-5" target="39-sSo6X4Tb6nSMiiZlj-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -74,9 +68,6 @@
         <mxCell id="39-sSo6X4Tb6nSMiiZlj-36" value="System Filter&amp;nbsp;&lt;br&gt;Hak Akses&amp;nbsp;&lt;br&gt;untuk admin gudang&lt;br&gt;dan buat sesion&lt;br&gt;&lt;br&gt;Mengelola data :&lt;br&gt;-barang&lt;br&gt;-jenis&lt;br&gt;-satuan&lt;br&gt;-barang masuk&amp;nbsp;&lt;br&gt;-barang keluar&lt;br&gt;-laporan barang masuk&lt;br&gt;-laporan data barang&lt;br&gt;-laporan-barang keluar&lt;br&gt;-mengganti password" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="55" y="430" width="190" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="39-sSo6X4Tb6nSMiiZlj-39" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
-          <mxGeometry x="380" y="1340" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="39-sSo6X4Tb6nSMiiZlj-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#006658;fontColor=#5C5C5C;" edge="1" parent="1" source="39-sSo6X4Tb6nSMiiZlj-42" target="39-sSo6X4Tb6nSMiiZlj-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -116,11 +107,20 @@
         <mxCell id="39-sSo6X4Tb6nSMiiZlj-51" value="TAMPILKAN DASHBOARD UNTUK&amp;nbsp;&lt;br&gt;ADMINISTRATOR" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="235" y="1010" width="370" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="39-sSo6X4Tb6nSMiiZlj-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#006658;fontColor=#5C5C5C;" edge="1" parent="1" source="39-sSo6X4Tb6nSMiiZlj-58" target="39-sSo6X4Tb6nSMiiZlj-39">
+        <mxCell id="39-sSo6X4Tb6nSMiiZlj-65" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="39-sSo6X4Tb6nSMiiZlj-58" target="39-sSo6X4Tb6nSMiiZlj-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="39-sSo6X4Tb6nSMiiZlj-58" value="LOGOUT&lt;br&gt;TAMPILKAN FORM LOGIN&amp;nbsp;&lt;br&gt;PESAN LOG POUT" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#21C0A5;strokeColor=#006658;fontColor=#5C5C5C;" vertex="1" parent="1">
           <mxGeometry x="255" y="1200" width="330" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39-sSo6X4Tb6nSMiiZlj-64" value="END" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39-sSo6X4Tb6nSMiiZlj-67" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="39-sSo6X4Tb6nSMiiZlj-66" target="39-sSo6X4Tb6nSMiiZlj-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="39-sSo6X4Tb6nSMiiZlj-66" value="START" style="ellipse;whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-60" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
